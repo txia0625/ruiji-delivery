@@ -1,2 +1,6 @@
 # ruiji-delivery
-A delivery app
+## Intro 
+A delivery app just like ubereat.
+
+## Feature (so far)
+- User Login
